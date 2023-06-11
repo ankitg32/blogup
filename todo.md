@@ -1,8 +1,23 @@
 # Contains a list of pending/suggested tasks to improve the project
 
-Todo:
+Todos:
 
-Deploy app to AWS or netlify
-Add readme.md file with project details and steps on how to run
-Add changelog?
-Add email validation and verification on signup and signin. 
+* Deploy app to AWS or netlify 
+    - Status
+    - Priority
+    - Comments
+
+* Add readme.md file with project details and steps on how to run
+    - Status
+    - Priority
+    - Comments
+
+* Add changelog?
+    - Status
+    - Priority
+    - Comments
+
+* Add email validation and verification on signup and signin
+    - Status
+    - Priority
+    - Comments
